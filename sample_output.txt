@@ -1,0 +1,653 @@
+Mental Illness
+Intellectual Disability
+Autism Spectrum
+Other Developmental Disability
+Pulmonary Asthma
+Cancer
+Three Digit Residence Zip Code
+Sex
+Age Group
+Employment Status
+Veteran Status
+Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration
+Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration
+Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration
+Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration
+Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration
+Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration
+Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration
+Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration
+random value
+['Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 'Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 'Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 'Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 'Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 'Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 'Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 'Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration']
+['Sex', 'Veteran Status', 'random value']
+max depth: 1.0
+
+
+Counter({0: 15483, 1: 713})
+DTC f1 score: 0.08768503937007875
+DTC mean accuracy: 0.10576685601383058
+('Sex', 0.0)
+('Veteran Status', 0.0)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 1.0)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.0)
+('random value', 0.0)
+
+
+
+-----------------
+max depth: 2.0
+
+
+Counter({0: 15132, 1: 1064})
+DTC f1 score: 0.12720325403673116
+DTC mean accuracy: 0.12558656458384787
+('Sex', 0.0)
+('Veteran Status', 0.07260075851596406)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.9053027062021929)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.0)
+('random value', 0.02209653528184313)
+
+
+
+-----------------
+max depth: 3.0
+
+
+Counter({0: 8465, 1: 7731})
+DTC f1 score: 0.6339055606517275
+DTC mean accuracy: 0.4825265497653742
+('Sex', 0.0)
+('Veteran Status', 0.05901926044712849)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.8006604798939411)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.07394440276213864)
+('random value', 0.06637585689679179)
+
+
+
+-----------------
+max depth: 4.0
+
+
+Counter({0: 11706, 1: 4490})
+DTC f1 score: 0.4298799104416853
+DTC mean accuracy: 0.3082242529019511
+('Sex', 0.0)
+('Veteran Status', 0.048209010515754755)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.06040039241051488)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.6540076782868746)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.019520378127800723)
+('random value', 0.21786254065905508)
+
+
+
+-----------------
+max depth: 5.0
+
+
+Counter({0: 11451, 1: 4745})
+DTC f1 score: 0.4465765811021248
+DTC mean accuracy: 0.31977031365769326
+('Sex', 0.0031846792180718507)
+('Veteran Status', 0.03802810891059216)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.06304289869475484)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.515892671332238)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.0)
+('random value', 0.379851641844343)
+
+
+
+-----------------
+max depth: 6.0
+
+
+Counter({0: 11966, 1: 4230})
+DTC f1 score: 0.4087252475247524
+DTC mean accuracy: 0.29204741911583104
+('Sex', 0.002652905778845416)
+('Veteran Status', 0.03167822659245926)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.03968920532431088)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.3950149399018803)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.034734669189551357)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.012826875200756283)
+('random value', 0.4834031780121966)
+
+
+
+-----------------
+max depth: 7.0
+
+
+Counter({0: 11842, 1: 4354})
+DTC f1 score: 0.4176060668169707
+DTC mean accuracy: 0.2982217831563349
+('Sex', 0.012388336574231598)
+('Veteran Status', 0.024718297807268697)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.03096920827021668)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.34533932351420027)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.008511032873816394)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.0)
+('random value', 0.5780738009602664)
+
+
+
+-----------------
+max depth: 8.0
+
+
+Counter({0: 10276, 1: 5920})
+DTC f1 score: 0.5268001138411915
+DTC mean accuracy: 0.3840454433193381
+('Sex', 0.023141283457412464)
+('Veteran Status', 0.018891125341115245)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.02466004351308943)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.007681567113117569)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.2562786684892509)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.006504614114700322)
+('random value', 0.662842697971314)
+
+
+
+-----------------
+max depth: 9.0
+
+
+Counter({0: 10318, 1: 5878})
+DTC f1 score: 0.5247148288973383
+DTC mean accuracy: 0.3825635959496172
+('Sex', 0.022304209587620527)
+('Veteran Status', 0.015348576828263063)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.01925628783103619)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.20289032798796164)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.016829469197355656)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.000831936613071222)
+('random value', 0.7225391919546916)
+
+
+
+-----------------
+max depth: 10.0
+
+
+Counter({0: 10156, 1: 6040})
+DTC f1 score: 0.5345722101688519
+DTC mean accuracy: 0.39071375648308226
+('Sex', 0.02626739363526863)
+('Veteran Status', 0.01196856762261004)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.02396249088797118)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 2.0486021520222833e-05)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.15038075258509034)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.016161669270525897)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.0013100167926352873)
+('random value', 0.7699286231843784)
+
+
+
+-----------------
+max depth: 11.0
+
+
+Counter({0: 10004, 1: 6192})
+DTC f1 score: 0.5444413224688583
+DTC mean accuracy: 0.3993578661397876
+('Sex', 0.027497831327986208)
+('Veteran Status', 0.010243500667363459)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.005725378058901787)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.014896647269362866)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 1.753330738804575e-05)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.13125945052581856)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.012228987646387232)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 1.753330738804575e-05)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 6.369248497846998e-05)
+('random value', 0.7980494454044254)
+
+
+
+-----------------
+max depth: 12.0
+
+
+Counter({0: 9937, 1: 6259})
+DTC f1 score: 0.5484337799355772
+DTC mean accuracy: 0.4027537663620647
+('Sex', 0.02850135828721834)
+('Veteran Status', 0.008559435972424584)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.001723593045756459)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.0008689990697692097)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.005245948510716351)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.1169461736237867)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.006474515769770158)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.001888198766217657)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.010723997152376206)
+('random value', 0.8190677798019643)
+
+
+
+-----------------
+max depth: 13.0
+
+
+Counter({0: 9700, 1: 6496})
+DTC f1 score: 0.5632098993443532
+DTC mean accuracy: 0.41590516176833786
+('Sex', 0.025706632875483835)
+('Veteran Status', 0.0072865023013649974)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.003394865127737314)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.009141628384378491)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.004430162573735762)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.0933686948840047)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.010151947848273366)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.004135814435564923)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.0)
+('random value', 0.8423837515694567)
+
+
+
+-----------------
+max depth: 14.0
+
+
+Counter({0: 9472, 1: 6724})
+DTC f1 score: 0.5764415608151329
+DTC mean accuracy: 0.42763645344529516
+('Sex', 0.025788755952475883)
+('Veteran Status', 0.006274012520604918)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0018989044752072536)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.010602108527429889)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0038038020369858165)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.00223829690067653)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.08833423404742255)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.002816103279593714)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.004999338569228245)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 3.9010828546034754e-05)
+('random value', 0.8532054328618291)
+
+
+
+-----------------
+max depth: 15.0
+
+
+Counter({0: 9470, 1: 6726})
+DTC f1 score: 0.5773940058479532
+DTC mean accuracy: 0.4288713262533959
+('Sex', 0.030773171607826125)
+('Veteran Status', 0.00538101531009433)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 3.345831156130674e-05)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.005172690663612908)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.005330894489330076)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.007791240033435573)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.06953822524359951)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.005909407715360135)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.005202811055749818)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.0005587291630143587)
+('random value', 0.8643083564064159)
+
+
+
+-----------------
+[ 1.  2.  3.  4.  5.  6.  7.  8.  9. 10. 11. 12. 13. 14. 15.]
+max depth: 1.0
+
+
+Counter({0: 15483, 1: 713})
+RF f1 score: 0.08768503937007875
+RF accuracy: 0.10576685601383058
+('Sex', 0.0)
+('Veteran Status', 0.01)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.19)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.1)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.1)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.14)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.17)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.15)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.14)
+('random value', 0.0)
+
+
+
+-----------------
+max depth: 2.0
+
+
+Counter({0: 14400, 1: 1796})
+RF f1 score: 0.20285411015449933
+RF accuracy: 0.16534946900469252
+('Sex', 0.0053282127819549)
+('Veteran Status', 0.024769442368716556)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.1867057222398743)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.12781351118633166)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.1062128367538225)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.12079252120460521)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.14058557877196234)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.12562913298499415)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.036748111396634)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.09348793438536669)
+('random value', 0.031926995925737535)
+
+
+
+-----------------
+max depth: 3.0
+
+
+Counter({0: 11565, 1: 4631})
+RF f1 score: 0.4402566563936745
+RF accuracy: 0.3159422079525809
+('Sex', 0.022050896617531218)
+('Veteran Status', 0.04589579039019357)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.08970295588533636)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.10175488256256936)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.06279865080408784)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.17158469586795927)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.08728505822282821)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.16681553532519008)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.022665326432571103)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.13879666188094006)
+('random value', 0.09064954601079295)
+
+
+
+-----------------
+max depth: 4.0
+
+
+Counter({0: 11364, 1: 4832})
+RF f1 score: 0.45453636090827243
+RF accuracy: 0.3266238577426525
+('Sex', 0.025050012466040536)
+('Veteran Status', 0.050699596831600816)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.11228427602478512)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.12072181934637612)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.05749659201192484)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.09769687037202202)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.10346422675889207)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.07928195420654555)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.018242960076627825)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.11968072228437776)
+('random value', 0.21538096962080736)
+
+
+
+-----------------
+max depth: 5.0
+
+
+Counter({0: 10980, 1: 5216})
+RF f1 score: 0.48022377073314354
+RF accuracy: 0.3460113608298345
+('Sex', 0.047992275282130806)
+('Veteran Status', 0.06360338155604807)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.07241410145523962)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.057815486382537945)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.08059982474603605)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.07148623127360691)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.08258380669476889)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.10302097862470334)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.013060590801305038)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.06289529429920104)
+('random value', 0.3445280288844222)
+
+
+
+-----------------
+max depth: 6.0
+
+
+Counter({0: 10315, 1: 5881})
+RF f1 score: 0.5250201967400087
+RF accuracy: 0.38287231415164236
+('Sex', 0.05126752677735807)
+('Veteran Status', 0.06273331639085258)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.04825851063758293)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.046257852392773725)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.0643456035046672)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.061982968999840814)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.04391165255720972)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.059197198272136126)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.013946453446080446)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.04310934215351954)
+('random value', 0.5049895748679787)
+
+
+
+-----------------
+max depth: 7.0
+
+
+Counter({1: 8411, 0: 7785})
+RF f1 score: 0.6702583464132694
+RF accuracy: 0.5200666831316374
+('Sex', 0.04503696775884491)
+('Veteran Status', 0.05301011408883547)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.02968382059427381)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.056113610795599234)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.04935459005812006)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.03519344743232884)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.033095168044080754)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.03258869631774449)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.005898385508753751)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.023663169126086035)
+('random value', 0.6363620302753327)
+
+
+
+-----------------
+max depth: 8.0
+
+
+Counter({1: 8882, 0: 7314})
+RF f1 score: 0.6941440692064548
+RF accuracy: 0.5459372684613485
+('Sex', 0.04015790077594511)
+('Veteran Status', 0.03661248977869879)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.030606035719584677)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.028758967395151123)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.021787826788707287)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.026204403450466804)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.024846380384121142)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.029072962967375552)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.006569651331736369)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.02715138822895895)
+('random value', 0.7282319931792539)
+
+
+
+-----------------
+max depth: 9.0
+
+
+Counter({1: 9432, 0: 6764})
+RF f1 score: 0.7201756525981946
+RF accuracy: 0.5750802667325265
+('Sex', 0.030859903438964043)
+('Veteran Status', 0.0333851633276456)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.017023050840405035)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.02072120626777556)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.024649833152318116)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.014266313505595977)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.020104783444842508)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.0251384166877746)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0041157700901203525)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.02149646672445676)
+('random value', 0.7882390925201014)
+
+
+
+-----------------
+max depth: 10.0
+
+
+Counter({1: 10000, 0: 6196})
+RF f1 score: 0.7462840791669978
+RF accuracy: 0.6058285996542356
+('Sex', 0.02484211149491198)
+('Veteran Status', 0.024222492574771968)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.012485570010231574)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.015405243636636616)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.009748916386802364)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.011456601435374667)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.01728174064385348)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.018728083292065344)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.006731605079568047)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.01863332185255209)
+('random value', 0.8404643135932319)
+
+
+
+-----------------
+max depth: 11.0
+
+
+Counter({1: 10588, 0: 5608})
+RF f1 score: 0.7725825242718445
+RF accuracy: 0.6384292417880958
+('Sex', 0.020843900743326718)
+('Veteran Status', 0.018578518952499012)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.0075183428910648295)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.014162094723741686)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.010900004764788244)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.018628626289649924)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.012070557235102617)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.008475969002473127)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0039666366336051015)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.011561964338591193)
+('random value', 0.8732933844251574)
+
+
+
+-----------------
+max depth: 12.0
+
+
+Counter({1: 11294, 0: 4902})
+RF f1 score: 0.8017084971273057
+RF accuracy: 0.6760928624351692
+('Sex', 0.017526217284648267)
+('Veteran Status', 0.015532199142555898)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.008998807389844104)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.005447985426343977)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.008040977682222793)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.009848527182176652)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.015950102031477165)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.012201269385460322)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0041296953126089934)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.006280584647052803)
+('random value', 0.8960436345156093)
+
+
+
+-----------------
+max depth: 13.0
+
+
+Counter({1: 12092, 0: 4104})
+RF f1 score: 0.8320246569310925
+RF accuracy: 0.7173376142257347
+('Sex', 0.013261401779315554)
+('Veteran Status', 0.012946153068422459)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.010347958354351034)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.00562994158780233)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.00842209325262205)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.008700311461077425)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.007471977061449264)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.0065592574949884346)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.002185101288663774)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.0070083927683730445)
+('random value', 0.9174674118829342)
+
+
+
+-----------------
+max depth: 14.0
+
+
+Counter({1: 12740, 0: 3456})
+RF f1 score: 0.8560676654003299
+RF accuracy: 0.7520375401333662
+('Sex', 0.012074439963563782)
+('Veteran Status', 0.01153500821739619)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.004261608776715739)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.00844661661664036)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.005533571897672108)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.007230489565584672)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.007295417547037512)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.00630232513538291)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.001277953266513203)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.006983996782769652)
+('random value', 0.9290585722307239)
+
+
+
+-----------------
+max depth: 15.0
+
+
+Counter({1: 13425, 0: 2771})
+RF f1 score: 0.8804701437716445
+RF accuracy: 0.7890219807359842
+('Sex', 0.010043723177360388)
+('Veteran Status', 0.009686229285141158)
+('Air Toxics Concentrations- Average Benzene Concentrations::Average Concentration', 0.005858759031961347)
+('Air Toxics Concentrations- Average Formaldehyde Concentrations::Average Concentration', 0.005913753683474032)
+('Neighborhood Air Quality Concentrations- Elemental Carbon (EC)::Average Concentration', 0.006083530711856358)
+('Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5)::Average Concentration', 0.006164826679755761)
+('Neighborhood Air Quality Concentrations- Nitric Oxide (NO)::Average Concentration', 0.003242238443711189)
+('Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2)::Average Concentration', 0.008229142023884506)
+('Neighborhood Air Quality Concentrations- Ozone (O3)::Average Concentration', 0.0012070161793377966)
+('Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2)::Average Concentration', 0.0046897082176951856)
+('random value', 0.9388810725658224)
+
+
+
+-----------------
